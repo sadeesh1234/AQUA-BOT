@@ -23,7 +23,7 @@ This project is still being tested
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- Sadiya-official 
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
